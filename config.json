@@ -8,7 +8,8 @@
   "Aimbotloadbutton": true,
   "AimbotOnbutton": true,
  "AimbotOffbutton": true,
-"keybindaimbot" : false,
+"keybindaimbot": false,
+"AimbotText": false,
 
 
                       "awm" : "",
