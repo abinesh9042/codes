@@ -6,6 +6,8 @@
   "headoffset": "0x70",
   "chestoffset": "0x6C",
   "Aimbotloadbutton": true,
+  "AimbotOnbutton": true,
+ "AimbotOffbutton": true,
 
 
                       "awm" : "",
