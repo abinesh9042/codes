@@ -14,15 +14,30 @@
  "AimbotOffbutton": true,
 "keybindaimbot": true,
 "AimbotText": true,
+"Aimbotname": "Aimbot Head",
 
 
                          "speedhack" : "",
+"speedname": "speed hack",
 "speedText": true,
 "speedloadbutton": true,
 "speedOnbutton": true,
 "speedOffbutton": true,
+"keybindspeed": true,
 "speedscan": "01 00 00 00 02 2b 07 3d",
 "speedreplace": "01 00 00 00 92 e4 60 3d",
+
+
+
+                          "wallhack" : "",
+"wallText": true,
+"wallname": "wall hack"
+"wallloadbutton": true,
+"wallOnbutton": true,
+"wallOffbutton": true,
+"keybindwall": true,
+"wallscan": "01 00 00 00 02 2b 07 3d",
+"wallreplace": "01 00 00 00 92 e4 60 3d",
 
 
 
