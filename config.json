@@ -21,6 +21,8 @@
 "speedloadbutton": true,
 "speedOnbutton": true,
 "speedOffbutton": true,
+"speedscan": "01 00 00 00 02 2b 07 3d",
+"speedreplace": "01 00 00 00 92 e4 60 3d",
 
 
 
